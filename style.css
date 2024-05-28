@@ -1,11 +1,14 @@
 *(
     margin:0;
     padding:0;
+
 )
 
-header{
+.cabeçalho{
     background-color: blue;
     color: aqua;
+    align-content: center;
+    display: inline-block;
 }
 .foto{
     width: 20%;
