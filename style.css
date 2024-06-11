@@ -7,8 +7,10 @@
 .cabeçalho{
     background-color: blue;
     color: aqua;
-    align-content: center;
-    display: inline-block;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 .foto{
     width: 20%;
